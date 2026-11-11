@@ -1,0 +1,6 @@
+{
+  "name": "FloodGrid - Urban Flood Intelligence & Predictive Drainage Platform",
+  "description": "Predictive urban flood intelligence, IoT drainage sensor network monitoring, hydrological simulation, and geospatial emergency response command center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
